@@ -64,7 +64,7 @@ a:active {
   font-size: 1.3rem;
 }
 
-#header a.price {
+#header a.ctabtn {
   padding: 0.5rem 1rem;
   border-radius: 0.3rem;
   font-weight: 500;
@@ -72,7 +72,7 @@ a:active {
   font-size: 1.4rem;
 }
 
-#header a.price:hover {
+#header a.ctabtn:hover {
   background-color: var(--color-primary);
   transition: background-color 0.3s;
 }
